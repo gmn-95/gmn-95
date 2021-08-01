@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Gustavo Macedo
 
 - 🌱 Estudando Java
-- 💬 Sou um recente apaixonado por TI, em busca de aprender e de evoluir como profissional na área.
-Desejo transformar as tecnologias que estou estudando como as minhas principais ferramentas e coloca-lás em prática. Atualmente, estou aprendendo a linguagem Java, e conhecimento básico com C++, ja realizei diversas atividades simples com essas linguagens. Estou em busca de experiência, de novos desafos e transformá-los em conhecimentos.
+- 💬 Desejo transformar o conhecimento adquirido na faculdade e de outros cursos em pratica. Atualmente, estou aprendendo a linguagem Java, e tenho conhecimento básico com C++. Ja realizei diversas atividades simples com essas linguagens. Estou em busca de novas experiência, de novos desafios e transformá-los em conhecimentos.
 - 📫 Contate-me no email: gustavo.macedo9@outlook.com ou no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
