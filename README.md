@@ -1,7 +1,12 @@
 ### Olá! Eu sou o Gustavo Macedo
 
 - 🌱 Estudando Java
-- 💬 Desejo transformar o conhecimento adquirido na faculdade e de outros cursos em pratica. Atualmente, estou aprendendo a linguagem Java, e tenho conhecimento básico com C++. Ja realizei diversas atividades simples com essas linguagens. Estou em busca de novas experiência, de novos desafios e transformá-los em conhecimentos.
+- 💬 Olá caro visitante! Seja muito bem vindo e muito bem vinda ao meu perfil.
+
+Meu nome é Gustavo Macedo e tenho 20 anos.
+Sou um recente apaixonado por TI, em busca de aprender e de evoluir como profissional na área.
+
+Desejo transformar o conhecimento adquirido na faculdade e de outros cursos em pratica. Atualmente, estou aprendendo a linguagem Java, até o momento é a linguagem que mais tenho conhecimento, por mais que seja básico. Já realizei diversas atividades e até mesmo alguns projetos pequenos com essa linguagem. Estou em busca de experiência, de desafios, de aprender cada vez mais!
 - 📫 Contate-me no email: gustavo.macedo9@outlook.com ou no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
