@@ -6,7 +6,7 @@
 Meu nome é Gustavo Macedo e tenho 20 anos.
 Sou um recente apaixonado por TI, em busca de aprender e de evoluir como profissional na área.
 
-Desejo transformar o conhecimento adquirido na faculdade e de outros cursos em pratica. Atualmente, estou aprendendo a linguagem Java, até o momento é a linguagem que mais tenho conhecimento, por mais que seja básico. Já realizei diversas atividades e até mesmo alguns projetos pequenos com essa linguagem. Estou em busca de experiência, de desafios, de aprender cada vez mais!
+Desejo transformar o conhecimento adquirido até o momento em prática. Atualmente, estou aprendendo Java para web, utilizando JSP. Tenho conhecimento com JDBC e, noção com o padrão de arquitetura MVC. Até o momento é a linguagem que mais tenho conhecimento. Já realizei diversas atividades e até mesmo alguns projetos pequenos com essa linguagem. Estou em busca de experiências, de desafios, de aprender cada vez mais!
 - 📫 Contate-me no email: gustavo.macedo9@outlook.com ou no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
