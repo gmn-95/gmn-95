@@ -4,11 +4,10 @@
 - 💬 Olá caro visitante! Seja muito bem vindo meu perfil.
 
 Meu nome é Gustavo Macedo e tenho 21 anos.
-Sou um recente apaixonado por TI, em busca de aprender e de evoluir como profissional na área.
 
-Desejo transformar o conhecimento adquirido até o momento em prática. Tenho conhecimento com JSP, JDBC, JPA e Hibernate básico, SQL básico e noção com o padrão de arquitetura MVC. Atualmente estou estudando Spring Boot. 
-Até o momento, Java é a linguagem que mais tenho conhecimento. Já realizei diversas atividades e até mesmo alguns projetos com essa linguagem, como: projeto web, desktop e android. 
-Estou em busca de experiências, de desafios, de aprender cada vez mais!
+Tenho um ano de experiencia como programador, tendo como principal linguagem: Java. Nesse período de 1 ano, trabalhei como desevenvolvedor estagiário backend java.
+Tive contato e experiências com as seguintes tecnologias: Git, GitLab, SQl, JavaScript, HTML, CSS, Java, Spring, Vraptor, Mysql, PostgreSQL.
+Creio que com todo aprendizado adquirido nesse período de um ano de experiência, posso contribuir muito como programador júnior.
 
 - 📫 Contate-me no email: gustavo.macedo9@outlook.com ou no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
@@ -22,7 +21,15 @@ Estou em busca de experiências, de desafios, de aprender cada vez mais!
    
    <img align="center" alt="img spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    
+   
+   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
+   
    <img align="center" alt="jsp" height="50" width="50" src="https://user-images.githubusercontent.com/80294306/166163129-01edad79-a6e6-4d8c-ba70-f72f0601d772.png">
+   
+   
+   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+          
    
 
   <img align="right" alt="" height="150" width="200" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
