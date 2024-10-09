@@ -9,7 +9,7 @@ Tenho um ano de experiencia como programador, tendo como principal linguagem: Ja
 Tive contato e experiências com as seguintes tecnologias: Git, GitLab, SQl, JavaScript, HTML, CSS, Java, Spring, Vraptor, Mysql, PostgreSQL.
 Creio que com todo aprendizado adquirido nesse período de um ano de experiência, posso contribuir muito como programador júnior.
 
-- 📫 Contate-me no email: gustavo.macedo9@outlook.com ou no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
+- 📫 Contate-me no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
   <a href="https://github.com/gmn-95">
