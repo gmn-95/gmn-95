@@ -1,14 +1,7 @@
 ### Olá! Eu sou o Gustavo Macedo
 
-- 🌱 Estudando Java
-- 💬 Olá caro visitante! Seja muito bem vindo meu perfil.
-
-Meu nome é Gustavo Macedo e tenho 21 anos.
-
-Tenho um ano de experiencia como programador, tendo como principal linguagem: Java. Nesse período de 1 ano, trabalhei como desevenvolvedor estagiário backend java.
-Tive contato e experiências com as seguintes tecnologias: Git, GitLab, SQl, JavaScript, HTML, CSS, Java, Spring, Vraptor, Mysql, PostgreSQL.
-Creio que com todo aprendizado adquirido nesse período de um ano de experiência, posso contribuir muito como programador júnior.
-
+- Analista de sistemas JR - JAVA
+  
 - 📫 Contate-me no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
