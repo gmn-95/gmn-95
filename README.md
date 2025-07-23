@@ -1,4 +1,3 @@
-### Olá! Eu sou o Gustavo Macedo
 
 - Analista de sistemas JR - JAVA
   
