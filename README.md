@@ -1,7 +1,5 @@
 
 - Analista de sistemas JR - JAVA
-  
-- 📫 Contate-me no linkedin: https://www.linkedin.com/in/gustavo-macedo-360/
 
  <div>
   <a href="https://github.com/gmn-95">
